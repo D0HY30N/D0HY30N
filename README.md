@@ -20,7 +20,7 @@
 <div align="center">
   
   [![Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat-square&logo=tistory&link=https://dohyeon2da.tistory.com/)](https://dohyeon2da.tistory.com/)　
-  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon@gmail.com)](mailto:kimdxhyeon@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon2@gmail.com)](mailto:kimdxhyeon@gmail.com)
     
 </div>
 
