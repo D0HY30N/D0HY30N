@@ -19,8 +19,8 @@
 
 <div align="center">
   
-  [![Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat-square&logo=tistory&link=https://d0hy30n.github.io/)](https://dohyeon2da.tistory.com/)　
-  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon2@gmail.com)](mailto:kimdxhyeon@gmail.com)
+  [![Blog Badge](http://img.shields.io/badge/-Blog-gray?style=flat-square&logo=tistory&link=https://d0hy30n.github.io/)](https://d0hy30n.github.io/)　
+  [![Gmail Badge](https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimdxhyeon2@gmail.com)](mailto:kimdxhyeon2@gmail.com)
     
 </div>
 
